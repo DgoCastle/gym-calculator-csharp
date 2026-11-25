@@ -7,6 +7,9 @@ Aplicación de escritorio en **C# (.NET Framework 4.8, WinForms)**, con interfaz
 - **Calculadora de física del levantamiento:** con la carga, la distancia, la inclinación y el tiempo calcula la **fuerza**, la **fuerza efectiva**, el **trabajo (W)** y la **potencia**.
 - **Navegación con user controls:** un panel principal que cambia de vista sin abrir ventanas nuevas.
 
+## 📋 Ingeniería de requerimientos
+El proyecto empezó con un documento de requerimientos: requerimientos funcionales y no funcionales, actores, entradas y salidas, criterios de aceptación y casos de verificación (por ejemplo, 100 kg × 10 reps → 1RM = 133.3 kg). Está en [`docs/requerimientos.pdf`](docs/requerimientos.pdf).
+
 ## 🚀 Cómo correrlo
 1. Abre `Castillo_Diego_S13T1.sln` en **Visual Studio**.
 2. Restaura los paquetes NuGet (clic derecho en la solución → *Restore NuGet Packages*).
